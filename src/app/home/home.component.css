@@ -1,0 +1,24 @@
+.container {
+    position: absolute;
+    margin: 0;
+    min-height: 90%;
+    min-width: 100%;
+    background-image: url("https://firebasestorage.googleapis.com/v0/b/agenceimmo-87dc5.appspot.com/o/images%2Fcarousel%2Farchitecture-1477041.jpg?alt=media&token=a9f14171-a41f-4d10-a2aa-34734c5ba63c");
+    
+    background-size: cover;
+    background-position: center;
+}
+
+.container h1 {
+    width: 100%;
+    margin-top: 25px;
+    text-align: center;
+    color: #fff;
+    text-shadow: 2px 2px 2px #000;
+    background-color: rgba(255,255,255,0.3);
+}
+
+.container button {
+    display: block;
+    margin: 20% auto;
+}

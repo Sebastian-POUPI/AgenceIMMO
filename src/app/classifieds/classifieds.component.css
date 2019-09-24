@@ -1,0 +1,8 @@
+.annonces {
+    background: linear-gradient(to top, #fff, #c1e0e7);
+    
+}
+#pics {
+    height: auto;
+    min-height: 250px ;
+}
